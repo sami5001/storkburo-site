@@ -1,0 +1,10 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Document vault icon</title>
+  <rect width="160" height="160" rx="32" fill="#FFFDF9"/>
+  <path d="M39 58C39 50 45 44 53 44H78L90 58H121C129 58 135 64 135 72V115C135 124 128 131 119 131H41C32 131 25 124 25 115V72C25 64 31 58 39 58Z" fill="#B8CCE0"/>
+  <path d="M25 78H135V115C135 124 128 131 119 131H41C32 131 25 124 25 115V78Z" fill="#6F8CB7"/>
+  <path d="M80 108C91 108 100 99 100 88C100 77 91 68 80 68C69 68 60 77 60 88C60 99 69 108 80 108Z" fill="#F6F1E7"/>
+  <path d="M72 87V81C72 77 75 73 80 73C85 73 88 77 88 81V87" stroke="#2E2924" stroke-width="6" stroke-linecap="round"/>
+  <rect x="70" y="86" width="20" height="17" rx="4" fill="#E89A4A"/>
+</svg>
+

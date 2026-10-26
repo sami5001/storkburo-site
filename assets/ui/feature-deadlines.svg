@@ -1,0 +1,12 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Deadline tracking icon</title>
+  <rect width="160" height="160" rx="32" fill="#FFFDF9"/>
+  <rect x="32" y="38" width="96" height="86" rx="16" fill="#F6F1E7" stroke="#EED8B0" stroke-width="6"/>
+  <path d="M32 65H128" stroke="#6F8CB7" stroke-width="8" stroke-linecap="round"/>
+  <path d="M57 27V48M103 27V48" stroke="#2E2924" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="103" cy="103" r="32" fill="#E89A4A"/>
+  <path d="M103 84V104L118 113" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="58" cy="89" r="6" fill="#D47C73"/>
+  <circle cx="80" cy="89" r="6" fill="#B8CCE0"/>
+</svg>
+

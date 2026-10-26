@@ -1,0 +1,9 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Smart checklist icon</title>
+  <rect width="160" height="160" rx="32" fill="#FFFDF9"/>
+  <rect x="44" y="30" width="78" height="104" rx="14" fill="#F6F1E7" stroke="#EED8B0" stroke-width="6"/>
+  <path d="M62 64L72 74L93 51" stroke="#6F8CB7" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M62 103L72 113L93 90" stroke="#E89A4A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M102 68H116M102 107H116" stroke="#6B6359" stroke-width="6" stroke-linecap="round"/>
+</svg>
+

@@ -1,0 +1,9 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Bilingual guidance icon</title>
+  <rect width="160" height="160" rx="32" fill="#FFFDF9"/>
+  <path d="M34 43C34 34 41 27 50 27H94C103 27 110 34 110 43V73C110 82 103 89 94 89H73L52 108V89H50C41 89 34 82 34 73V43Z" fill="#B8CCE0"/>
+  <path d="M57 69H87M57 51H95" stroke="#2E2924" stroke-width="7" stroke-linecap="round"/>
+  <path d="M62 82H111C120 82 127 89 127 98V120C127 129 120 136 111 136H94L76 150V136H62C53 136 46 129 46 120V98C46 89 53 82 62 82Z" fill="#EED8B0"/>
+  <text x="68" y="116" fill="#6F8CB7" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Rounded', system-ui, sans-serif" font-size="27" font-weight="800">DE</text>
+</svg>
+

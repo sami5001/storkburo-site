@@ -1,0 +1,12 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">StorkBuro favicon</title>
+  <rect width="64" height="64" rx="16" fill="#F6F1E7"/>
+  <circle cx="34" cy="31" r="23" fill="#B8CCE0"/>
+  <path d="M21 45C20 36 22 27 29 23C33 20 39 21 41 25C43 29 41 32 37 34C32 36 29 40 28 49L21 45Z" fill="#FFFDF9"/>
+  <circle cx="38" cy="23" r="6" fill="#FFFDF9"/>
+  <path d="M42 24C47 24 53 26 58 29C52 31 47 30 42 27V24Z" fill="#E89A4A"/>
+  <circle cx="40" cy="22" r="1.4" fill="#2E2924"/>
+  <rect x="35" y="36" width="17" height="14" rx="3" fill="#EED8B0"/>
+  <path d="M37 36H43L45 39H52V43H35V39C35 37 36 36 37 36Z" fill="#6F8CB7"/>
+</svg>
+

@@ -1,0 +1,8 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Pregnancy tracker icon</title>
+  <rect width="160" height="160" rx="32" fill="#FFFDF9"/>
+  <circle cx="80" cy="82" r="48" fill="#B8CCE0"/>
+  <path d="M80 114C63 98 50 86 50 70C50 58 59 50 70 50C76 50 82 53 86 59C90 53 96 50 102 50C113 50 122 58 122 70C122 86 109 98 92 114L86 120L80 114Z" fill="#D47C73"/>
+  <path d="M43 126H117" stroke="#EED8B0" stroke-width="10" stroke-linecap="round"/>
+</svg>
+
